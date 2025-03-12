@@ -387,7 +387,6 @@
 - [Daniel Molina](https://github.com/molinafm30)
 - [notamudkipiguess](https://github.com/notamudkipiguess)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
-- [Eduardo Egydio Shirai](https://github.com/ShiraiEd)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [Floyd Carlo](https://github.com/floo69)
 - [Omkar Guha](https://github.com/omkarguha)
